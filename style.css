@@ -20,4 +20,8 @@ h1 {
   top: 650px;
   left: 300px;
   font-size: 40px;
+  color: blue;
+}
+#HAHA:hover {
+	color: #ff0000;
 }
