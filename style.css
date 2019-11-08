@@ -25,3 +25,14 @@ h1 {
 #HAHA:hover {
 	color: #ff0000;
 }
+#download:hover {
+	color: purple;
+}
+#download {
+	color: yellow;
+	font-family: 'Yeon Sung', cursive;
+	text-decoration: underline;
+	text-transform: capitalize;
+	text-shadow: 3px 2px purple;
+	font-size: 40px;
+}
