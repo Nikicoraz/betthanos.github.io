@@ -29,10 +29,12 @@ h1 {
 	color: purple;
 }
 #download {
+	position:relative;
 	color: yellow;
 	font-family: 'Yeon Sung', cursive;
 	text-decoration: underline;
 	text-transform: capitalize;
 	text-shadow: 3px 2px purple;
 	font-size: 40px;
+	left:15%;
 }
